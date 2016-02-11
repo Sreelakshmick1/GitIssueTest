@@ -1,0 +1,15 @@
+/build/
+/bin/
+
+.gradle
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+.gradle
+.idea
+*.iml
+
+tags
